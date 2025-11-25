@@ -39,4 +39,3 @@ Since 2025
 ---
 
 [Website](https://myaicoscore.com) • [Twitter](https://twitter.com/AICOscore) • [LinkedIn](https://linkedin.com/company/AICOscore) • [YouTube](https://youtube.com/@AICOscore)
-```
